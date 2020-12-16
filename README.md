@@ -9,7 +9,7 @@ Learning some deep convolution features for classification and clustering.
 
 | Model         | Parameter                                                | Accuracy     |  KNN          | Download     |
 | ------------- |:-------------:                                           | -----:       |  -----:       | -----:       | 
-|  Resnet18     |bs = 128, Lr = 0.1, CosineAnnealingLR(Tmax = 200)         | 91.90%       |  91.90%       | [512-D mat](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) |
+|  Resnet18     |bs = 128, Lr = 0.1, CosineAnnealingLR(Tmax = 200)         | 91.90%       |  91.90%       | [mat](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) |
 |  Resnet101    |bs = 128, Lr = 0.1, CosineAnnealingLR(Tmax = 200)         | 92.42%       |  92.42%       | 92.42%       |
 |  星期三        | G1007                                                    | 18:30        |  18:30        |  18:30       |               
 
