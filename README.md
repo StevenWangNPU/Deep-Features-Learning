@@ -11,5 +11,5 @@ Learning some deep convolution features for classification and clustering.
 | ------------- |:-------------:                                                  | -----:       |           |
 |  Resnet18     |bs = 128, Lr = 0.1, CosineAnnealingLR(Tmax = 200)                | 91.90%       |           |
 |  Resnet101    |bs = 128, Lr = 0.1, CosineAnnealingLR(Tmax = 200)                | 92.42%       |           |
-|  星期三        | G1007               |   18:30      |                           |               |           |
+|  星期三        | G1007               |   18:30      |                          
 
