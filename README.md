@@ -5,7 +5,7 @@ Learning some deep convolution features for classification and clustering.
 * Pytorch 1.7
 
 ## Accuracy
-* **Cifar10**: 512-dimensional feature vectors in MATLAB format.  Fetch code: idea
+* **Cifar10:** 512-dimensional feature vectors in MATLAB format.  Fetch code: idea
 
 | Model           | Parameter setting                                        | Accuracy     |  KNN          | Downlaod     | 
 | :-------------: |:-------------:                                           | :-----:      |  :-----:      | :-----:      | 
