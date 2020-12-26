@@ -18,7 +18,7 @@ Learning some deep convolution features for classification and clustering.
 |  Densenet121       | bs = 128, Lr = 0.1, MultiStepLR(optimizer, [100, 200, 250], gamma=0.1)  | 91.88%     | 91.88%        | [284_epoch.pth](https://pan.baidu.com/s/1XUbVcFKQuzXHqvTaSPql3g) \| [512-D](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) |  
 |  Densenet121       | bs = 128, Lr = 0.1, CosineAnnealingLR(Tmax = 300)                       | 92.51%     | 92.51%        | [289_epoch.pth](https://pan.baidu.com/s/13gPpbmBSdYCJOJTPC3nrtw) \| [512-D](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) |  
 
-* **ImageNet:** 512-dimensional feature vectors in MATLAB format.
+* **STL10:** 512-dimensional feature vectors in MATLAB format.
 
 | Model           | Parameter setting                                        | Accuracy     |  KNN          | Download     | 
 | :-------------: |:-------------:                                           | :-----:      |  :-----:      | :-----:      | 
