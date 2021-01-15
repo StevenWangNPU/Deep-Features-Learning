@@ -12,9 +12,9 @@ Learning some deep convolution features for classification and clustering.
 |  ResNet18       |bs = 256, Lr = 0.01, CosineAnnealingLR(Tmax = 300)        | 88.11%       |  82.82%       | [299_epoch.pth](https://pan.baidu.com/s/1axGz6wYNdW4u3QCDlx31sQ) \|  [128-D](https://pan.baidu.com/s/1QLYAzigv0oIq2p1yiAc4LQ) | 
 |  VGG16          |bs = 256, Lr = 0.01, CosineAnnealingLR(Tmax = 300)        | 87.77%       |  80.16%      | [221_epoch.pth](https://pan.baidu.com/s/1t7CZvr_0_qwxwcOPKC8Sbg) \| [128-D](https://pan.baidu.com/s/1Vz8GpRzJQRNE1Xi9LKwgMQ) |          
 |  SeNet18        | bs = 256, Lr = 0.01, MultiStepLR(optimizer, [100, 200, 250], gamma=0.1)  | 91.09%      | 87.40%        | [241_epoch.pth](https://pan.baidu.com/s/193v8JTK6iOL2SSfwY0M8vw) \| [128-D](https://pan.baidu.com/s/1b4IWPsP8nIy7RQRct3C5mg) | 
-| SVHN            | bs = 128, Lr = 0.1, CosineAnnealingLR(Tmax = 300)  | 92.41%      | 92.41%        | [297_epoch.pth](https://pan.baidu.com/s/1ciaqaJ7VjBoxk4xei_eVvA) \| [512-D](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) | 
-|  DenseNet121    | bs = 128, Lr = 0.1, MultiStepLR(optimizer, [100, 200, 250], gamma=0.1)  | 91.88%     | 91.88%        | [284_epoch.pth](https://pan.baidu.com/s/1XUbVcFKQuzXHqvTaSPql3g) \| [512-D](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) |  
-|  GoogleNet       | bs = 128, Lr = 0.1, CosineAnnealingLR(Tmax = 300)                       | 92.51%     | 92.51%        | [289_epoch.pth](https://pan.baidu.com/s/13gPpbmBSdYCJOJTPC3nrtw) \| [512-D](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) |  
+| SVHN            | bs = 256, Lr = 0.01, MultiStepLR(optimizer, [100, 200, 250], gamma=0.1)  | 92.41%      | 92.41%        | [297_epoch.pth](https://pan.baidu.com/s/1ciaqaJ7VjBoxk4xei_eVvA) \| [512-D](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) | 
+|  DenseNet121    | bs = 256, Lr = 0.1, MultiStepLR(optimizer, [100, 200, 250], gamma=0.1)   | 91.88%     | 91.88%        | [284_epoch.pth](https://pan.baidu.com/s/1XUbVcFKQuzXHqvTaSPql3g) \| [512-D](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) |  
+|  GoogleNet      | bs = 256, Lr = 0.01, MultiStepLR(optimizer, [100, 200, 250], gamma=0.1)  | 92.51%     | 92.51%        | [289_epoch.pth](https://pan.baidu.com/s/13gPpbmBSdYCJOJTPC3nrtw) \| [512-D](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) |  
 
 * **STL10:** 512-dimensional feature vectors in MATLAB format.
 
