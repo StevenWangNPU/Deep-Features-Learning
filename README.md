@@ -18,7 +18,7 @@ Learning some deep convolution features for classification and clustering.
 
 * **STL10:** 128-dimensional feature vectors in MATLAB format.
 
-|| Model           | Parameter setting                                        | Accuracy     |  KNN          | Download     | 
+| Model           | Parameter setting                                        | Accuracy     |  KNN          | Download     | 
 | :-------------: |:-------------:                                           | :-----:      |  :-----:      | :-----:      | 
 |  ResNet18       |bs = 256, Lr = 0.01, CosineAnnealingLR(Tmax = 300)        | 88.11%       |  82.82%       | [299_epoch.pth](https://pan.baidu.com/s/1axGz6wYNdW4u3QCDlx31sQ) \|  [128-D](https://pan.baidu.com/s/1QLYAzigv0oIq2p1yiAc4LQ) | 
 |  VGG16          |bs = 256, Lr = 0.01, CosineAnnealingLR(Tmax = 300)        | 87.77%       |  80.16%      | [221_epoch.pth](https://pan.baidu.com/s/1t7CZvr_0_qwxwcOPKC8Sbg) \| [128-D](https://pan.baidu.com/s/1Vz8GpRzJQRNE1Xi9LKwgMQ) |          
