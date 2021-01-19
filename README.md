@@ -16,7 +16,7 @@ Learning some deep convolution features for classification and clustering.
 |  DenseNet121    | bs = 256, Lr = 0.1, MultiStepLR(optimizer, [100, 200, 250], gamma=0.1)   | 91.88%     | 88.41%        | [232_epoch.pth](https://pan.baidu.com/s/1MzJtOeYIJEYWWrr7sWZ38A) \| [128-D](https://pan.baidu.com/s/1RX3R0_ehhnbtSSL7tkTVLQ) |  
 |  GoogleNet      | bs = 256, Lr = 0.01, MultiStepLR(optimizer, [100, 200, 250], gamma=0.1)  | 92.51%     | 92.51%        | [165_epoch.pth](https://pan.baidu.com/s/1kpXTROa7cnLzWDRM4qLVRg) \| [128-D](https://pan.baidu.com/s/111Tf7gpTg55wTL60gwizqQ) |  
 
-* **STL10:** 512-dimensional feature vectors in MATLAB format.
+* **STL10:** 128-dimensional feature vectors in MATLAB format.
 
 | Model           | Parameter setting                                        | Accuracy     |  KNN          | Download     | 
 | :-------------: |:-------------:                                           | :-----:      |  :-----:      | :-----:      | 
@@ -26,7 +26,7 @@ Learning some deep convolution features for classification and clustering.
 |  Senet18          | bs = 128, Lr = 0.1, MultiStepLR(optimizer, [100, 200, 250], gamma=0.1)  | 91.93%      | 91.93%        | [291_epoch.pth](https://pan.baidu.com/s/1lvgOMXZpkbUh00wtL1PGdg) \| [512-D](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) | 
 |  SVHN          | bs = 128, Lr = 0.1, MultiStepLR(optimizer, [100, 200, 250], gamma=0.1)  | 91.93%      | 91.93%        | [291_epoch.pth](https://pan.baidu.com/s/1lvgOMXZpkbUh00wtL1PGdg) \| [256-D](https://github.com/StevenWangNPU/Deep-Features-Learning/edit/main/README.md) | 
 
-* **ImageNet:** 512-dimensional feature vectors in MATLAB format.
+* **ImageNet:** 128-dimensional feature vectors in MATLAB format.
 
 | Model           | Parameter setting                                        | Accuracy     |  KNN          | Download     | 
 | :-------------: |:-------------:                                           | :-----:      |  :-----:      | :-----:      | 
